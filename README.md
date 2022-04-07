@@ -10,10 +10,15 @@ Requirements
 Setting up
 
 minikube
+
 terraform init ;terraform plan
+
 terraform apply
+
 kubectl get pods
+
 kubectl get all
+
 minikube service wordpress-service --url
 
 Reference:
